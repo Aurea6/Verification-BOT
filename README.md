@@ -45,7 +45,7 @@
 
 - **Keep checking the [Releases Section](https://github.com/iRed-Github/Verification-BOT/releases) to get the latest info relating new updates, bug fixes etc about the repository.**
 - **The Information above includes Versions with only `Major Updates` and not Versions with `Bug fixes`**
-- **`v1.0.2` is included in the List because this version includes the fixing of every error in the repository.**
+- **`v1.0.0` is included in the List because this version includes the fixing of every error in the repository.**
 - **Support is provided only for `Stable` and `Beta` Versions and not for `Alpha` Versions.**
 
 ---
