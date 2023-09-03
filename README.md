@@ -10,7 +10,7 @@
 ***
 
 <details><summary>Creators of this bot</summary>
-<img src="https://cdn.discordapp.com/avatars/976413539076026388/26b16fd447481cfa872cd4762fb25584.png?size=2048" alt="iRed">
+<img src="https://cdn.discordapp.com/" alt="iRed">
 </details>
 
 ---
@@ -21,7 +21,7 @@
 - Basic knowledge of JS or Discord.JS
 
 ## Have suggestions on what could be added?
-- **Leave your suggestions right [here](https://github.com/iRed-Github/Verification-BOT/pulls) and create a pull request there and tell us your suggesstion**
+- **Leave your suggestions right [here](https://github.com/Aurea6/Verification-BOT/pulls) and create a pull request there and tell us your suggesstion**
 
 ## What features do I Include?
 
@@ -43,7 +43,7 @@
 
 </details>
 
-- **Keep checking the [Releases Section](https://github.com/iRed-Github/Verification-BOT/releases) to get the latest info relating new updates, bug fixes etc about the repository.**
+- **Keep checking the [Releases Section](https://github.com/Aurea6/Verification-BOT/releases) to get the latest info relating new updates, bug fixes etc about the repository.**
 - **The Information above includes Versions with only `Major Updates` and not Versions with `Bug fixes`**
 - **`v1.0.0` is included in the List because this version includes the fixing of every error in the repository.**
 - **Support is provided only for `Stable` and `Beta` Versions and not for `Alpha` Versions.**
@@ -52,7 +52,7 @@
 
 ## Getting started
 #### Creating a fork:
-- 1). [Click here to fork the repository](https://github.com/iRed-Github/Verification-BOT)
+- 1). [Click here to fork the repository](https://github.com/Aurea6/Verification-BOT)
 - 2). Open your terminal and type `git clone https://github.com/iRed-Github/Chronium-BOT.git`
 #### Installing all necessary packages
 - `npm install`
@@ -61,9 +61,9 @@
 
 ---
 ## Run the project
-[![Run on Repl.it](https://cdn.discordapp.com/attachments/911214420405919814/989043103010783272/run_on_replit.png)](https://replit.com/github/iRed-Github/Verification-BOT)
-[![Remix on glitch](https://cdn.discordapp.com/attachments/911214420405919814/989047753139187712/remix_on_glitch.png)](https://glitch.com/edit/#!/import/github/iRed-Github/Verification-BOT)
-[![Deploy to Heroku](https://cdn.discordapp.com/attachments/911214420405919814/989049316779896862/deploy_to_heroku.png)](https://heroku.com/deploy?template=https://github.com/iRed-Github/Verification-BOT)
+[![Run on Repl.it](https://cdn.discordapp.com/attachments/911214420405919814/989043103010783272/run_on_replit.png)](https://replit.com/github/Aurea6/Verification-BOT)
+[![Remix on glitch](https://cdn.discordapp.com/attachments/911214420405919814/989047753139187712/remix_on_glitch.png)](https://glitch.com/edit/#!/import/github/Aurea6/Verification-BOT)
+[![Deploy to Heroku](https://cdn.discordapp.com/attachments/911214420405919814/989049316779896862/deploy_to_heroku.png)](https://heroku.com/deploy?template=https://github.com/Aurea6/Verification-BOT)
 
 ***
 ## Configuration
@@ -89,27 +89,15 @@ module.exports = {
 
 ## Contributing
 - **Join our [Support & Development Server](https://dsc.gg/idk-development)**
-- **Join our [Community server](https://dsc.gg/pcg-empire)**
 - **Invite my bot to your Server, [Here](https://dsc.gg/chronium-bot)**
 
 ***
 
 <details><summary>Advertising</summary>
-
-[PCG's Empire](https://dsc.gg/pcg-empire) - Our partner
-
-[![Our partner | PCG's Empire](https://cdn.discordapp.com/icons/980130999180607549/46fae3ead08e4abf0144f5aac89eec99.webp)](https://dsc.gg/pcg-empire)
-
   
-[Bot-Hosting.net](https://bot-hosting.net) - It is a discord bot hosting service which hosts your discord bots on their vps servers for free of cost and is also 24/7 online with 0 cost
+  [Bot-Hosting.net](https://bot-hosting.net) - It is a discord bot hosting service which hosts your discord bots on their vps servers for free of cost and is also 24/7 online with 0 cost
 [![Bot-Hosting | Best free discord bot hosting service](https://images-ext-1.discordapp.net/external/9UfX7_aitHTgnSI5xOmrKQC7NMxhUcmjKZsnaHCHjJ8/%3Fsize%3D2048/https/cdn.discordapp.com/banners/884145104401608735/f320acbfaf316f229eba6dcf71d11e61.webp)](https://bot-hosting.net)
 
-  
-[clohost.xyz](https://clohost.xyz) - It is a discord bot hosting bot hosting service which hosts your discord bots on their vps servers for free of cost and is also 24/7 online with 0 cost
-
-  
-[![clohost.xyz | A free discord bot hosting service](https://cdn.discordapp.com/avatars/962719984344244244/5247575cdefd71f3e5efb1036c7c883e.png)](https://clohost.xyz)
-</details>
 
 ***
 
